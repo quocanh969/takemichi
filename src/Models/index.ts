@@ -1,0 +1,1 @@
+export type {Address, Company, User} from './User.model'
